@@ -5,3 +5,4 @@
 5、request_proxy_retry.py	请求+代理重试模块
 6、request_retry.py		请求重试模块
 7、file_count.py                       统计文件行数、拆分文件
+8、luan_ma_handler.py           获取内容中乱码内容的处理
